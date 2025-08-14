@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-### What languages i use:
-- TypeScript
-- JavaScript
-- C#
+### mai skills
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,html,tailwind,vue,php,python,figma,html,css,git)](https://www.youtube.com/watch?v=Bdi82lLFCb8)
 
 
 ### Devices I own
