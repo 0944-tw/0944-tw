@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14638&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"/>
 
 ### mai skills
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,java,html,tailwind,vue,php,python,figma,html,css,git)](https://www.youtube.com/watch?v=Bdi82lLFCb8)
