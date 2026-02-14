@@ -1,5 +1,6 @@
 
 ## Hi there 👋
+easy skibidi lv1
 <img width="960" height="576" alt="Frame 2(1)" src="https://github.com/user-attachments/assets/b7c4e27b-00a1-46ae-ac9c-675431c3ccff" />
 
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=14638&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"/>
